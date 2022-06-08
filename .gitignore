@@ -37,3 +37,10 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+*.mp4
+*.pdf
+*.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
