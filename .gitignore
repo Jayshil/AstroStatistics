@@ -44,3 +44,11 @@ vignettes/*.pdf
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*.jpg
+*.png
+*.dat
+*.csv
+.gitignore
+*.txt
+Labs/output
+Labs/output_bin
